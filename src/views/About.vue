@@ -9,7 +9,7 @@
       <input type="number" name="money" id="money">
       <br>
       <br>
-      <button>I'm rich bitch</button>
+      <button>I'm rich</button>
       </div>
   </div>
 </template>
@@ -35,5 +35,6 @@ input {
 }
 button{
   background-color: aquamarine;
+  color: red;
 }
 </style>
