@@ -19,22 +19,22 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #ff9580;
+  background-color: aquamarine;
 }
 h1 {
-  background-color: aquamarine;
+  background-color: #ff9580;
 }
 .red {
   width: 100%;
-  background-color: aquamarine;
+  background-color: #ff9580;;
   text-align: center;
   color: red;
 }
 input {
-  background-color: aquamarine;
+  background-color: #ff9580;;
 }
 button{
-  background-color: aquamarine;
+  background-color: #ff9580;;
   color: red;
 }
 </style>
